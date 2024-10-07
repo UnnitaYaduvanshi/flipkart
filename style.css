@@ -2,5 +2,12 @@ body{
     background-color: pink;
 }
 h1{
-    color: blue;
+    color: rgb(7, 132, 182);
+    font-size: xx-large;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+p{
+    text-align: center;
+
 }
