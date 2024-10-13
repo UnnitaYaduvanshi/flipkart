@@ -1,8 +1,8 @@
 body{
-    background-color: pink;
+    background-color: wheat;
 }
 h1{
-    color: rgb(7, 132, 182);
+    color: rgb(0, 0, 0);
     font-size: xx-large;
     text-align: center;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -10,4 +10,7 @@ h1{
 p{
     text-align: center;
 
+}
+nav{
+    align-items: center;
 }
